@@ -1,5 +1,8 @@
 name: Image Build
 on:
+  push:
+    branches:
+      - main
   # Manueel starte
   workflow_dispatch:
 
