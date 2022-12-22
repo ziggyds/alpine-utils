@@ -1,2 +1,2 @@
-# alpine-curl
-Added curl to alpine image
+# alpine-utils
+Add some utilities to alpine
