@@ -1,2 +1,2 @@
-# busybox-curl
-Added curl to busybox
+# alpine-curl
+Added curl to alpine image
